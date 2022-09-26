@@ -1,0 +1,8 @@
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/.gitignore
+!/Senasa-mesh-poc-sender/
+!/senasa_mesh_poc_getMAC/
+!/Senasa_mesh_poc_reciever/
